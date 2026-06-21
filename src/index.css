@@ -1,0 +1,67 @@
+:root {
+  /* Backgrounds */
+  --bg: #081018;
+  --bg-secondary: #111827;
+
+  /* Emerald Theme */
+  --primary: #0f766e;
+  --primary-light: #14b8a6;
+
+  /* Gold Accent */
+  --secondary: #f59e0b;
+  --secondary-light: #fbbf24;
+
+  /* Text */
+  --text: #ffffff;
+  --text-secondary: #d1d5db;
+
+  /* Glass Cards */
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --card-border: rgba(255, 255, 255, 0.08);
+
+  /* Shadows */
+  --shadow-gold: rgba(245, 158, 11, 0.25);
+  --shadow-emerald: rgba(15, 118, 110, 0.25);
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Inter, system-ui, sans-serif;
+
+  background:
+    radial-gradient(circle at top left,
+      rgba(15, 118, 110, .20),
+      transparent 35%),
+    radial-gradient(circle at bottom right,
+      rgba(245, 158, 11, .15),
+      transparent 35%),
+    var(--bg);
+
+  color: var(--text);
+
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+section {
+  position: relative;
+  z-index: 2;
+}
