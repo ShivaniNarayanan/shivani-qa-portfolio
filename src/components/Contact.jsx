@@ -12,7 +12,7 @@ const Contact = () => {
       <div className="contact-wrapper">
 
         <img
-          src="/images/Shivani.jpg"
+          src="/images/office-standing.jpg"
           alt="Shivani"
           className="contact-image"
         />

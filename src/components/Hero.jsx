@@ -35,8 +35,11 @@ const Hero = () => {
         <div className="hero-tech-stack">
           <span>Playwright</span>
           <span>TypeScript</span>
+          <span>JavaScript</span>
           <span>API Testing</span>
+          <span>Python</span>
           <span>SQL</span>
+          <span>BDD Cucumber</span>
           <span>GitHub Actions</span>
         </div>
 
