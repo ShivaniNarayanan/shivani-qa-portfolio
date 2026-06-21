@@ -43,7 +43,7 @@ const Hero = () => {
         <div className="hero-buttons">
 
           <a
-            href="/Shivani_Narayanan_QA_Resume.pdf"
+            href="/Shivani_Narayanan_QA_Automation.pdf"
             target="_blank"
             rel="noreferrer"
             className="btn-primary"

@@ -31,7 +31,7 @@ export default function Navbar() {
       </ul>
 
       <a
-        href="/Shivani_Narayanan_QA_Resume.pdf"
+        href="/Shivani_Narayanan_QA_Automation.pdf"
         target="_blank"
         rel="noreferrer"
         className="resume-nav-btn"
