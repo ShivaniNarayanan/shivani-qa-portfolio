@@ -36,6 +36,7 @@ const Hero = () => {
           <span>Playwright</span>
           <span>TypeScript</span>
           <span>JavaScript</span>
+          <span>Selenium</span>
           <span>API Testing</span>
           <span>Python</span>
           <span>SQL</span>
