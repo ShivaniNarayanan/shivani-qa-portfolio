@@ -26,7 +26,7 @@ const Experience = () => {
             <div className="timeline-content">
 
               <span className="timeline-date">
-                2021 - Present
+                Sep 2021 - Sep 2026
               </span>
 
               <h3>

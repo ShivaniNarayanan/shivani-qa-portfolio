@@ -51,7 +51,7 @@ const About = () => {
             </div>
 
             <div className="achievement-card">
-              <h3>2+</h3>
+              <h3>2.7</h3>
               <p>Years Playwright</p>
             </div>
 
