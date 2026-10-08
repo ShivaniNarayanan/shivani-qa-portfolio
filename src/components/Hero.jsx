@@ -26,7 +26,7 @@ const Hero = () => {
         </h2>
 
         <p className="hero-description">
-          QA Automation Engineer with 4.9+ years of experience in
+          QA Automation Engineer with 5 years of experience in
           Software Testing, including Manual Testing,
           Playwright Automation, API Testing,
           SQL Validation and CI/CD implementation.
@@ -67,7 +67,7 @@ const Hero = () => {
         <div className="hero-stats">
 
           <div className="stat-card">
-            <h3>4.9+</h3>
+            <h3>5</h3>
             <p>Years Experience</p>
           </div>
 
@@ -77,7 +77,7 @@ const Hero = () => {
           </div>
 
           <div className="stat-card">
-            <h3>2+</h3>
+            <h3>2.5</h3>
             <p>Years Playwright</p>
           </div>
 

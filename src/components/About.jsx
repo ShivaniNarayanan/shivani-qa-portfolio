@@ -41,7 +41,7 @@ const About = () => {
           <div className="achievement-grid">
 
             <div className="achievement-card">
-              <h3>4.9+</h3>
+              <h3>5</h3>
               <p>Years Experience</p>
             </div>
 
