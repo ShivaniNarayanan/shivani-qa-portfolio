@@ -20,7 +20,7 @@ const About = () => {
         <div className="about-content">
 
           <p>
-            QA Automation Engineer with 4.9+ years of Software
+            QA Automation Engineer with 5 years of Software
             Testing experience including Manual Testing,
             Playwright Automation, API Testing and SQL Validation.
           </p>
